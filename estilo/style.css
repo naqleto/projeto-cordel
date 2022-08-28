@@ -57,7 +57,7 @@ section {
     padding-left: 30px;
     padding-right: 100px;
     font-family: var(--fonte3);
-    font-size: 3.5vw;
+    font-size: 4.5vw;
     
 }
 
@@ -66,6 +66,7 @@ img {
 }
 section > p {
     padding-bottom: 2em;
+    padding-left: 30px;
 }
 
 section.normal {
@@ -85,7 +86,7 @@ section.imagem {
 section.imagem > p {
     display:inline-flex(center);/* Caixa que se adapta ao tamanho do conteudo!*/
     padding-left: 25px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.247);
     text-shadow: 1px 2px 0px black;
 }
 
