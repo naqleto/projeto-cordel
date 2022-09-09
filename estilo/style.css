@@ -32,7 +32,7 @@ header > h1 {
     padding-top: 50px;
     /* text-transform: uppercase;Transforma tudo em Letra maiuscula*/
     font-variant: small-caps;
-    font-family: var(--fonte2);
+    font-family: var(--fonte1);
     font-size: 8vw;
 }
 
@@ -57,8 +57,7 @@ section {
     padding-left: 30px;
     padding-right: 100px;
     font-family: var(--fonte3);
-    font-size: 4.5vw;
-    
+    font-size: 4.5vw;   
 }
 
 img {
@@ -80,7 +79,6 @@ section.imagem {
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.534);
     background-size: cover;
     background-attachment: fixed;
-    
 }
 
 section.imagem > p {
@@ -103,6 +101,5 @@ footer {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 10px;
-    
+    padding: 10px;   
 }
