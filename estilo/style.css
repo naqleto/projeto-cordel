@@ -34,6 +34,7 @@ header > h1 {
     font-variant: small-caps;
     font-family: var(--fonte1);
     font-size: 8vw;
+    font-style:italic;
 }
 
 header > p{
