@@ -1,24 +1,23 @@
-# Projeto Cordel 
+# Projeto Cordel  
 
-![preview](./.github/preview1.png)
+>Projeto do Curso em Vídeo do Professor Guanabara  
 
->Projeto do Curso em Vídeo do Professor Guanabara
+[Clique aqui para acessar](https://naqleto.github.io/projeto-cordel/) 
 
-[Clique aqui para acessar](https://naqleto.github.io/projeto-cordel/)
-
-## Tecnologias
+## Tecnologias  
 
 - HTML5
 - CSS3
 - Git 
-- Github
+- Github  
 
-
-## O que aprendi
+## O que aprendi  
 - Trabalhar com imagens;  
 - Efeito Parallax;  
 - Deixar o site responsivo;  
 
-## Contato
+![preview](./.github/preview1.png)
+
+## Contato 
 
 naqleto@gmail.com
