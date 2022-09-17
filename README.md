@@ -1,6 +1,6 @@
 # Projeto Cordel 
 
-![preview](./.github/preview.png)
+![preview](./.github/preview1.png)
 
 >Projeto do Curso em Vídeo do Professor Guanabara
 
@@ -15,9 +15,9 @@
 
 
 ## O que aprendi
-Trabalhar com imagens;
-Efeito Parallax
-Deixar o site responsivo;
+- Trabalhar com imagens;  
+- Efeito Parallax;  
+- Deixar o site responsivo;  
 
 ## Contato
 
